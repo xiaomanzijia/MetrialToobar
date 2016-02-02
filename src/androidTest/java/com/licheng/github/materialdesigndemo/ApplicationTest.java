@@ -1,4 +1,4 @@
-package com.licheng.github.materialdemo;
+package com.licheng.github.materialdesigndemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
